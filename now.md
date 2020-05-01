@@ -2,7 +2,7 @@
 layout: page
 title: Post
 tagline:
-permalink: /now.html
-ref: now
+permalink: /post.html
+ref: post
 order: 2
 ---
