@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Post
+title: Home
 tagline:
-ref: post
+ref: home
+permalink: /home.html
 order: 1
 ---
-
-this is exmaple code
