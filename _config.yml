@@ -30,7 +30,7 @@ disqus_shortname: taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
+google:username
 #plus:            #username
 #analytics:
 #verify:
@@ -39,12 +39,12 @@ google:
 #bing-verify:
 #email:
 #twitter: username
-facebook:
+facebook: username
 github-url: HyungMinKang
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:
+instagram: username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -52,7 +52,7 @@ instagram:
 #foursquare:        username
 #steam: username
 #dribbble:          username
-youtube:
+youtube: username
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
