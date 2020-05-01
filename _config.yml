@@ -2,8 +2,8 @@ title: HyungMinKang 깃허브블로그
 description: 기록하는 개발자
 show_downloads: true
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/Min-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://hyungminkang.github.io/" # change this to the base hostname & protocol for your site
 
 google_analytics:
 
